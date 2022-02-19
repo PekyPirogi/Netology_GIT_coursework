@@ -2,7 +2,7 @@
 
 I am a pre-junior iOS developer with unbeatable desire to conquer the world.
 IT seems an appealing sphere to me as it is fast-pacing environment encouraging you to improve your skills endlessly.
-I wish I've started my education a decade earlier, but I strongly believe that age is a scoial construct.
+I wish I've started my education a decade earlier, but I strongly believe that age is a social construct.
 
 <h3>My skills</h3>
 
@@ -12,4 +12,4 @@ I wish I've started my education a decade earlier, but I strongly believe that a
 1. SwiftUI (in plans)
 1. Unkillable optimism
 
-![Coco](img/Image.jpg)
+![Coco](/img:/Image.jpg)

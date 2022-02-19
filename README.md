@@ -11,4 +11,4 @@ I wish I've started my education a decade earlier, but I strongly believe that a
 1. SwiftUI (in plans)
 1. Unkillable optimism
 
-![Coco](img/Coco.jpg)
+![Coco](img/Coco)
